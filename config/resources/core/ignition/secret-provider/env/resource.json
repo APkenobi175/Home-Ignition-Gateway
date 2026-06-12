@@ -1,6 +1,6 @@
 {
   "scope": "A",
-  "description": "",
+  "description": "All enviroment variables found here",
   "version": 1,
   "restricted": false,
   "overridable": true,
@@ -8,7 +8,12 @@
     "config.json"
   ],
   "attributes": {
+    "lastModification": {
+      "actor": "phippsammon",
+      "timestamp": "2026-06-12T05:20:06Z"
+    },
     "uuid": "310a6d95-9264-49aa-af59-140b0163f0c4",
+    "lastModificationSignature": "504c2bbd6956ddac82dfff44bd6f5a00d70bd6bbcf3f967f5e2823902e8a31ac",
     "enabled": true
   }
 }
