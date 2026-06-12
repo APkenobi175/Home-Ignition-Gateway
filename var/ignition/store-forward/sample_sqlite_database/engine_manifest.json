@@ -1,13 +1,6 @@
 {
   "engineId": "sample_sqlite_database",
   "flavorToSinks": {
-    "audit_record": [
-      {
-        "engineId": "sample_sqlite_database",
-        "sinkId": "sample_audit_profile",
-        "engineBound": false
-      }
-    ],
     "alarm_journal_event": [
       {
         "engineId": "sample_sqlite_database",
