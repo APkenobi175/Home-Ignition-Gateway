@@ -1,0 +1,8 @@
+[
+  {
+    "valueSource": "memory",
+    "dataType": "DataSet",
+    "name": "Sessions",
+    "tagType": "AtomicTag"
+  }
+]
