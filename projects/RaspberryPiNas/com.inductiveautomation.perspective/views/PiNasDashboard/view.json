@@ -1,0 +1,367 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {
+    "defaultSize": {
+      "width": 828
+    }
+  },
+  "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "Label"
+        },
+        "position": {
+          "height": 32,
+          "width": 553,
+          "x": 122.47579406738282,
+          "y": 35.88033813476562
+        },
+        "props": {
+          "text": "Raspberry Pi NAS Monitor",
+          "textStyle": {
+            "fontSize": 45
+          }
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "key": "",
+          "name": "Gauge"
+        },
+        "position": {
+          "height": 175,
+          "width": 300,
+          "x": 16,
+          "y": 170
+        },
+        "props": {
+          "backgroundColor": "",
+          "innerAxis": {
+            "data": "secondaryValue",
+            "maxValue": 80,
+            "percentRadius": 85,
+            "show": false,
+            "width": 1
+          },
+          "outerAxis": {
+            "data": "value",
+            "maxValue": 120,
+            "percentRadius": 100,
+            "ranges": [
+              {
+                "color": "#77B6D8",
+                "end": 80,
+                "start": 0,
+                "width": 8
+              },
+              {
+                "color": "#6E94D7",
+                "end": 105,
+                "start": 80,
+                "width": 12
+              },
+              {
+                "color": "#7A6BD5",
+                "end": 120,
+                "start": 105,
+                "width": 16
+              }
+            ],
+            "show": true,
+            "width": 1
+          }
+        },
+        "type": "ia.chart.gauge"
+      },
+      {
+        "meta": {
+          "name": "Gauge_0"
+        },
+        "position": {
+          "height": 175,
+          "width": 300,
+          "x": 459.98577880859375,
+          "y": 170
+        },
+        "props": {
+          "backgroundColor": "",
+          "innerAxis": {
+            "data": "secondaryValue",
+            "maxValue": 80,
+            "percentRadius": 85,
+            "show": false,
+            "width": 1
+          },
+          "outerAxis": {
+            "data": "value",
+            "maxValue": 120,
+            "percentRadius": 100,
+            "ranges": [
+              {
+                "color": "#77B6D8",
+                "end": 80,
+                "start": 0,
+                "width": 8
+              },
+              {
+                "color": "#6E94D7",
+                "end": 105,
+                "start": 80,
+                "width": 12
+              },
+              {
+                "color": "#7A6BD5",
+                "end": 120,
+                "start": 105,
+                "width": 16
+              }
+            ],
+            "show": true,
+            "width": 1
+          }
+        },
+        "type": "ia.chart.gauge"
+      },
+      {
+        "meta": {
+          "name": "Gauge_1"
+        },
+        "position": {
+          "height": 175,
+          "width": 300,
+          "x": 15.982916101074219,
+          "y": 432
+        },
+        "props": {
+          "backgroundColor": "",
+          "innerAxis": {
+            "data": "secondaryValue",
+            "maxValue": 80,
+            "percentRadius": 85,
+            "show": false,
+            "width": 1
+          },
+          "outerAxis": {
+            "data": "value",
+            "maxValue": 120,
+            "percentRadius": 100,
+            "ranges": [
+              {
+                "color": "#77B6D8",
+                "end": 80,
+                "start": 0,
+                "width": 8
+              },
+              {
+                "color": "#6E94D7",
+                "end": 105,
+                "start": 80,
+                "width": 12
+              },
+              {
+                "color": "#7A6BD5",
+                "end": 120,
+                "start": 105,
+                "width": 16
+              }
+            ],
+            "show": true,
+            "width": 1
+          }
+        },
+        "type": "ia.chart.gauge"
+      },
+      {
+        "meta": {
+          "name": "Label_0"
+        },
+        "position": {
+          "height": 32,
+          "width": 87,
+          "x": 122.49431610107422,
+          "y": 384
+        },
+        "props": {
+          "text": "Disk Usage"
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "Label_1"
+        },
+        "position": {
+          "height": 32,
+          "width": 86,
+          "x": 122.98431610107421,
+          "y": 118
+        },
+        "props": {
+          "text": "CPU Usage"
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "Label_2"
+        },
+        "position": {
+          "height": 32,
+          "width": 90,
+          "x": 564.9857788085938,
+          "y": 117.98578262329102
+        },
+        "props": {
+          "text": "RAM Usage"
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "Button"
+        },
+        "position": {
+          "height": 77,
+          "width": 216,
+          "x": 501.9627788085937,
+          "y": 480.9886169433594
+        },
+        "props": {
+          "text": "Restart NAS",
+          "textStyle": {
+            "fontSize": 26
+          }
+        },
+        "type": "ia.input.button"
+      },
+      {
+        "meta": {
+          "name": "Icon"
+        },
+        "position": {
+          "height": 37,
+          "width": 50,
+          "x": 423.44,
+          "y": 75.96
+        },
+        "props": {
+          "color": "#0DFF00",
+          "path": "material/lens"
+        },
+        "type": "ia.display.icon"
+      },
+      {
+        "meta": {
+          "name": "Label_3"
+        },
+        "position": {
+          "height": 49,
+          "width": 116,
+          "x": 316.4443161010742,
+          "y": 67.95295211791992
+        },
+        "props": {
+          "key": "value",
+          "text": "NAS Status:",
+          "textStyle": {
+            "fontSize": 20
+          }
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "Label_4"
+        },
+        "position": {
+          "height": 49,
+          "width": 44,
+          "x": 472.44,
+          "y": 72.9
+        },
+        "props": {
+          "key": "value",
+          "text": "Online",
+          "textStyle": {
+            "color": "#0DFF00",
+            "fontSize": 12
+          }
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "Label_5"
+        },
+        "position": {
+          "height": 49,
+          "width": 44,
+          "x": 472.44,
+          "y": 72.9
+        },
+        "props": {
+          "key": "value",
+          "text": "Offline",
+          "textStyle": {
+            "color": "#FF0000",
+            "fontSize": 12
+          }
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "Label_6"
+        },
+        "position": {
+          "height": 32,
+          "width": 88,
+          "x": 322.2748813476563,
+          "y": 624.8633699035645
+        },
+        "props": {
+          "text": "IP Address:"
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "Label_7"
+        },
+        "position": {
+          "height": 32,
+          "width": 212,
+          "x": 410.35042922973633,
+          "y": 624.924972442627
+        },
+        "props": {
+          "text": "10.0.x.x"
+        },
+        "type": "ia.display.label"
+      },
+      {
+        "meta": {
+          "name": "Icon_0"
+        },
+        "position": {
+          "height": 37,
+          "width": 50,
+          "x": 423.44,
+          "y": 75.96
+        },
+        "props": {
+          "color": "FF0000",
+          "path": "material/lens"
+        },
+        "type": "ia.display.icon"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "type": "ia.container.coord"
+  }
+}

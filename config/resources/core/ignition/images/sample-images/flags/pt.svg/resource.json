@@ -1,0 +1,20 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "pt.svg"
+  ],
+  "attributes": {
+    "width": -1,
+    "format": "SVG",
+    "lastModification": {
+      "actor": "8.3-migration",
+      "timestamp": "2026-06-12T03:35:34Z"
+    },
+    "size": 7394,
+    "lastModificationSignature": "16000bd83b807336c6707c558e91c605cf4d4886ee15df49548c59f45c86c932",
+    "height": -1
+  }
+}

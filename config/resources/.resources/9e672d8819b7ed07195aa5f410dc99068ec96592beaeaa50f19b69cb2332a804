@@ -1,0 +1,30 @@
+[
+  {
+    "usr": {
+      "value": 1.781080375953E12
+    },
+    "name": "Last Refresh",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "value": false
+    },
+    "name": "Refresh",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "value": false
+    },
+    "name": "Discover Edge Nodes Required",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "value": false
+    },
+    "name": "Discover Edge Nodes",
+    "tagType": "AtomicTag"
+  }
+]

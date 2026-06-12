@@ -1,0 +1,20 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "ko.svg"
+  ],
+  "attributes": {
+    "width": -1,
+    "format": "SVG",
+    "lastModification": {
+      "actor": "8.3-migration",
+      "timestamp": "2026-06-12T03:35:34Z"
+    },
+    "size": 11324,
+    "lastModificationSignature": "b9ddedb8f916c05015708ebc6d11da49b7ae266e191369d386864934a24f709d",
+    "height": -1
+  }
+}

@@ -1,0 +1,55 @@
+[
+  {
+    "valueSource": "memory",
+    "dataType": "Float4",
+    "name": "cpu",
+    "defaultValue": 8.0,
+    "tagGroup": "PiNAS_Group",
+    "tagType": "AtomicTag"
+  },
+  {
+    "valueSource": "memory",
+    "dataType": "Float4",
+    "name": "ram",
+    "tagGroup": "PiNAS_GROUP",
+    "tagType": "AtomicTag"
+  },
+  {
+    "valueSource": "memory",
+    "dataType": "Float4",
+    "name": "disk",
+    "defaultValue": 8.0,
+    "tagGroup": "PiNAS_Group",
+    "tagType": "AtomicTag"
+  },
+  {
+    "valueSource": "memory",
+    "dataType": "String",
+    "name": "ip",
+    "defaultValue": "",
+    "tagGroup": "PiNAS_Group",
+    "tagType": "AtomicTag"
+  },
+  {
+    "valueSource": "memory",
+    "dataType": "Int4",
+    "name": "uptime",
+    "tagGroup": "PiNAS_GROUP",
+    "tagType": "AtomicTag"
+  },
+  {
+    "readOnly": false,
+    "dataType": "Boolean",
+    "writePermissions": {
+      "type": "AllOf",
+      "securityLevels": []
+    },
+    "name": "Publish",
+    "defaultValue": false,
+    "readPermissions": {
+      "type": "AllOf",
+      "securityLevels": []
+    },
+    "tagType": "AtomicTag"
+  }
+]

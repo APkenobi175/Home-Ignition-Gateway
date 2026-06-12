@@ -1,0 +1,6 @@
+{
+  "title": "Raspberry Pi Nas",
+  "description": "HMI for raspberry PI nas, doing this for practice",
+  "enabled": true,
+  "inheritable": false
+}

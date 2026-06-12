@@ -1,0 +1,19 @@
+{
+  "scope": "A",
+  "description": "The official MySQL JDBC Driver, Connector/J.",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "config.json"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "8.3-migration",
+      "timestamp": "2026-06-12T03:35:33Z"
+    },
+    "uuid": "be693d95-b5b5-41d5-b291-a2b4601aa179",
+    "lastModificationSignature": "254af63e86183e54f78f536ffb5239c964117347ba9fc30aacaa1376dc9bc40c",
+    "enabled": true
+  }
+}

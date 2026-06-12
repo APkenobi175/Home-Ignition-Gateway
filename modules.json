@@ -1,0 +1,120 @@
+{
+  "com.cirruslink.mqtt.distributor.gateway": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\MQTT-Distributor-signed.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "b3d50508d45e1703dea19b80f6cdc3d7030c1f03",
+    "licenseAgreementHash": 3796563337
+  },
+  "com.cirruslink.mqtt.engine.gateway": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\MQTT-Engine-signed.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "b3d50508d45e1703dea19b80f6cdc3d7030c1f03",
+    "licenseAgreementHash": 3001204990
+  },
+  "com.cirruslink.mqtt.transmission.gateway": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\MQTT-Transmission-signed.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "b3d50508d45e1703dea19b80f6cdc3d7030c1f03",
+    "licenseAgreementHash": 1616571205
+  },
+  "com.inductiveautomation.alarm-notification": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\Alarm Notification-module.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  },
+  "com.inductiveautomation.historian": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\Historian-module.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  },
+  "com.inductiveautomation.historian.sql": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\SQL Historian-module.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  },
+  "com.inductiveautomation.jdbc.mariadb": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\MariaDB JDBC Driver Module.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  },
+  "com.inductiveautomation.jdbc.mssql": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\MSSQL JDBC Driver Module.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  },
+  "com.inductiveautomation.jdbc.postgresql": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\PostgreSQL JDBC Driver Module.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  },
+  "com.inductiveautomation.opcua": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\OPC-UA-module.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  },
+  "com.inductiveautomation.opcua.drivers.ablegacy": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\Allen-Bradley Drivers-module.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  },
+  "com.inductiveautomation.opcua.drivers.logix": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\Logix Driver-module.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  },
+  "com.inductiveautomation.opcua.drivers.micro800": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\Micro800 Driver-module.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  },
+  "com.inductiveautomation.opcua.drivers.mitsubishi": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\Mitsubishi-Driver.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  },
+  "com.inductiveautomation.opcua.drivers.modbus": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\Modbus Driver v2-module.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  },
+  "com.inductiveautomation.opcua.drivers.omron": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\Omron-Driver.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  },
+  "com.inductiveautomation.opcua.drivers.siemens": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\Siemens Drivers-module.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  },
+  "com.inductiveautomation.opcua.drivers.tcpudp": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\UDP and TCP Drivers-module.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  },
+  "com.inductiveautomation.perspective": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\Perspective-module.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  },
+  "com.inductiveautomation.reporting": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\Reporting-module.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  },
+  "com.inductiveautomation.sfc": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\SFC-module.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  },
+  "com.inductiveautomation.sms-notification": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\SMS Notification-module.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  },
+  "com.inductiveautomation.sqlbridge": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\SQL Bridge-module.modl",
+    "onStartup": "enabled",
+    "certFingerprint": "88338069eb9c3f2d46a4baf701e4fa71bf073293"
+  }
+}

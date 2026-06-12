@@ -1,0 +1,30 @@
+[
+  {
+    "usr": {
+      "value": "4.0.24 (b2024091622)"
+    },
+    "name": "Version",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "value": "Independent"
+    },
+    "name": "Redundancy Role",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "value": "Active"
+    },
+    "name": "Redundancy State",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "value": false
+    },
+    "name": "Refresh Required",
+    "tagType": "AtomicTag"
+  }
+]

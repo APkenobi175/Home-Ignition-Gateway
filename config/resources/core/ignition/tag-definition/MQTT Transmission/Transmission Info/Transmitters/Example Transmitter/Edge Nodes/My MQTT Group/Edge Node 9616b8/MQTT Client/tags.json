@@ -1,0 +1,55 @@
+[
+  {
+    "usr": {
+      "value": false
+    },
+    "name": "Online",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "value": 1.748806018375E12
+    },
+    "name": "Online DateTime",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "value": 1.748808899462E12
+    },
+    "name": "Offline DateTime",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "value": ""
+    },
+    "name": "Target Server URL",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "value": ""
+    },
+    "name": "MQTT Client ID",
+    "tagType": "AtomicTag"
+  },
+  {
+    "name": "Primary Host ID",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "value": -1
+    },
+    "name": "Command Latency",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "value": false
+    },
+    "name": "Enable Latency Check",
+    "tagType": "AtomicTag"
+  }
+]

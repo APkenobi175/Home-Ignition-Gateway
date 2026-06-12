@@ -1,0 +1,20 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "information.png"
+  ],
+  "attributes": {
+    "width": 24,
+    "format": "PNG",
+    "lastModification": {
+      "actor": "8.3-migration",
+      "timestamp": "2026-06-12T03:35:34Z"
+    },
+    "size": 533,
+    "lastModificationSignature": "11eadabe8c4c8ce77b0b9e2adaccd6872b0ccf5eb38798953d03bef3ff178cde",
+    "height": 24
+  }
+}

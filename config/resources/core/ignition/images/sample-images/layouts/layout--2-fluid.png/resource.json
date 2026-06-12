@@ -1,0 +1,20 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "layout--2-fluid.png"
+  ],
+  "attributes": {
+    "width": -1,
+    "format": "PNG",
+    "lastModification": {
+      "actor": "8.3-migration",
+      "timestamp": "2026-06-12T03:35:34Z"
+    },
+    "size": 17505,
+    "lastModificationSignature": "0e6799c3a2dec243101193086b967c07c1b29ac9bff5deff4d89280522f32dbe",
+    "height": -1
+  }
+}

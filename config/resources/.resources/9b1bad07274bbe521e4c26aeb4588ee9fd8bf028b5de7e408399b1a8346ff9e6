@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "uuid": "1",
+      "username": "phippsammon",
+      "firstName": "",
+      "lastName": "",
+      "schedule": "Always",
+      "description": "",
+      "password": "[1069497]565e083bb6e9ed239373cb25a9199c90ab120289357aa39fc123adb9179294d5",
+      "passwordDate": "20250529.221952841-0600",
+      "passwordHistory": [],
+      "badge": "",
+      "createdDate": "20260611.213536281-0600",
+      "lastModifiedDate": "20260611.213536281-0600",
+      "roles": [
+        "637874cd-99b2-4867-982e-785dec32eae1"
+      ],
+      "extraProps": [],
+      "scheduleAdjustments": [],
+      "contactInfos": []
+    }
+  ],
+  "roles": [
+    {
+      "uuid": "637874cd-99b2-4867-982e-785dec32eae1",
+      "rolename": "Administrator",
+      "description": "",
+      "createdDate": "20260611.213536281-0600",
+      "lastModifiedDate": "20260611.213536281-0600"
+    }
+  ]
+}

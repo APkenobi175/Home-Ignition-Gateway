@@ -1,0 +1,99 @@
+[
+  {
+    "usr": {
+      "accessRights": "Read_Only",
+      "dataType": "DateTime",
+      "enabled": true
+    },
+    "name": "Last Refresh",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "accessRights": "Read_Only",
+      "dataType": "Boolean",
+      "value": false,
+      "enabled": true
+    },
+    "name": "Refresh Required",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "value": false
+    },
+    "name": "Refresh Edge Node",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "accessRights": "Read_Only",
+      "dataType": "Int8",
+      "value": 565,
+      "enabled": true
+    },
+    "name": "Largest Mesg Xmit",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "accessRights": "Read_Only",
+      "dataType": "DateTime",
+      "value": 1748806018393,
+      "enabled": true
+    },
+    "name": "Largest Mesg Xmit Timestamp",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "accessRights": "Read_Only",
+      "dataType": "Int8",
+      "value": 2,
+      "enabled": true
+    },
+    "name": "Total Mesg Xmit",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "accessRights": "Read_Only",
+      "dataType": "Int8",
+      "value": 741,
+      "enabled": true
+    },
+    "name": "Total Bytes Xmit",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "accessRights": "Read_Write",
+      "dataType": "Boolean",
+      "value": false,
+      "enabled": true
+    },
+    "name": "Reset Metrics",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "value": 0
+    },
+    "name": "Enable Tag Tracking",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "value": 0
+    },
+    "name": "Tags Per Second",
+    "tagType": "AtomicTag"
+  },
+  {
+    "usr": {
+      "value": 7
+    },
+    "name": "Tag Count",
+    "tagType": "AtomicTag"
+  }
+]

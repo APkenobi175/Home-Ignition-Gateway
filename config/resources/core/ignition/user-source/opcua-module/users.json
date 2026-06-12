@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "uuid": "2",
+      "username": "opcuauser",
+      "firstName": "",
+      "lastName": "",
+      "schedule": "Always",
+      "description": "",
+      "password": "[8530D00F]6341e2436ca213bfb9a80117d58a2f93b54e6d9d3676d992b44d45f45b06abc9",
+      "passwordDate": "20250529.221957683-0600",
+      "passwordHistory": [],
+      "badge": "",
+      "createdDate": "20260611.213536287-0600",
+      "lastModifiedDate": "20260611.213536287-0600",
+      "roles": [
+        "1e9045c1-d613-4c48-a948-1db225da930b"
+      ],
+      "extraProps": [],
+      "scheduleAdjustments": [],
+      "contactInfos": []
+    }
+  ],
+  "roles": [
+    {
+      "uuid": "1e9045c1-d613-4c48-a948-1db225da930b",
+      "rolename": "ReadWrite",
+      "description": "",
+      "createdDate": "20260611.213536287-0600",
+      "lastModifiedDate": "20260611.213536287-0600"
+    }
+  ]
+}
